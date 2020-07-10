@@ -11,7 +11,7 @@
 - Comparação do número de casos confirmados da doença nas demais cidades do estado de São Paulo
 
 ## Origem dos Dados
-[https://covid.saude.gov.br/](https://covid.saude.gov.br/)
+[https://covid.saude.gov.br/](https://covid.saude.gov.br/) <br/>
 [https://brasil.io/dataset/covid19/caso_full/](https://brasil.io/dataset/covid19/caso_full/)
 
 ## Autora 
